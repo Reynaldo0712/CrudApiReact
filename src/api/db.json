@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Reynaldo",
+      "lastname": "Cruz",
+      "email": "reynaldocruz07@hotmail.com",
+      "number": "8298167977"
+    },
+    {
+      "id": 2,
+      "name": "Ciprian",
+      "lastname": "Romero",
+      "email": "ciprianromero@gmail.com",
+      "number": "8095475847"
+    },
+    {
+      "id": 3,
+      "name": "Kevin",
+      "lastname": "Josue",
+      "email": "kevin@gmail.com",
+      "number": "8495878459"
+    }
+  ]
+}
